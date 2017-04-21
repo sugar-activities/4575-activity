@@ -1,0 +1,8 @@
+[Activity]
+name = YardStick
+bundle_id = org.laptop.YardStickActivity
+class = YardStickActivity.YardStickActivity
+icon = activity-yardstick
+activity_version = 1
+host_version = 1
+show_launcher = yes
